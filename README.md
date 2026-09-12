@@ -1,48 +1,126 @@
 # Hi 👋 I'm Seema Amola
 
-### Integration Engineer transitioning to Java Backend Development
+### Java Backend Developer | Integration Engineer
 
-🌱 Currently learning:
+Integration Engineer with 3+ years of professional experience in API, ERP and Cloud Integration, now specializing in Java Backend Development with Spring Boot.
 
-* Java
-* Spring Boot
-* REST APIs
-* MySQL
-* System Design
+I have hands-on experience working with APIs, integrations, testing, troubleshooting and customer onboarding. I’m currently applying this engineering experience to building backend applications using Java, Spring Boot, REST APIs and relational databases.
 
-💼 Background:
+---
 
-* 3+ years experience in API, ERP and Cloud Integration
-* Experience in testing, documentation and customer onboarding
+## 💼 Professional Experience
 
-🚀 Current goals:
+- 3+ years of professional experience in API, ERP and Cloud Integration
+- Experience working with REST APIs and integration workflows
+- API testing, troubleshooting and technical documentation
+- Customer onboarding and production support
+- Experience analyzing and resolving integration issues
+- Strong understanding of software integration and backend concepts
 
-* Build Java backend projects
-* Improve DSA skills
-* Become job-ready for backend roles
+---
 
-### Tech Stack
+## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+### Backend Development
+- Java
+- Spring Boot
+- Spring Framework
+- REST APIs
+- Spring Data JPA
+- Hibernate
+- Maven
 
+### Database
+- MySQL
+- SQL
+- H2
 
-### Current Projects
+### Core Java
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- Multithreading
+- Streams & Lambdas
+- Java 8+ Features
 
-📌 Expense Tracker API (In Progress)
+### Tools & Engineering
+- Git
+- GitHub
+- API Testing
+- Debugging & Troubleshooting
+- Data Structures & Algorithms
+- System Design
 
-📌 Spring Boot Learning Repository
+---
 
-📌 Java DSA Practice
+## 🚀 Featured Projects
 
-### Connect with me
+### 💳 Razorpay Payment Integration
 
-💼 LinkedIn: linkedin.com/in/seema-amola-79634a12b
+A backend payment application built using Java and Spring Boot, focusing on payment processing workflows and REST API development.
 
-📧 Email: [seemaamola11@gmail.com](mailto:seemaamola11@gmail.com)
+- Designed and developed REST APIs for payment workflows
+- Implemented payment order and transaction flows
+- Integrated database persistence using Spring Data JPA
+- Implemented request validation and exception handling
+- Worked with MySQL for persistent data storage
 
+**Tech:** Java | Spring Boot | REST APIs | Spring Data JPA | Hibernate | MySQL
+
+---
+
+### 💼 LinkedIn Clone
+
+A backend application inspired by professional networking platforms, developed to practice real-world backend architecture and REST API development.
+
+- Developed REST APIs for users, posts and connections
+- Implemented entity relationships using JPA/Hibernate
+- Applied layered backend architecture
+- Implemented validation and exception handling
+- Designed relational database structures
+
+**Tech:** Java | Spring Boot | REST APIs | Spring Data JPA | Hibernate | MySQL
+
+---
+
+### 💰 Expense Tracker API
+
+A RESTful backend application for managing personal expenses.
+
+- Developed CRUD APIs for expense management
+- Implemented database persistence using Spring Data JPA
+- Added request validation and exception handling
+- Designed RESTful API endpoints
+- Tested APIs during development
+
+**Tech:** Java | Spring Boot | REST APIs | Spring Data JPA | MySQL
+
+---
+
+## 📚 Areas of Expertise
+
+```text
+Java
+├── OOP
+├── Collections
+├── Streams & Lambdas
+├── Exception Handling
+└── Multithreading
+
+Spring
+├── Spring Boot
+├── Spring MVC
+├── Spring Data JPA
+└── REST APIs
+
+Database
+├── MySQL
+├── SQL
+└── Hibernate
+
+Engineering
+├── Git & GitHub
+├── Maven
+├── API Testing
+├── Debugging
+└── System Design
